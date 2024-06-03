@@ -1,7 +1,6 @@
 ## About The Project
 
 This is a project to iteratively generate a set of webpages in HTML with R. The starting point is dataset in csv to get data from such date every page will show different data given a standard template.
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 
 Common usages:
@@ -111,7 +110,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the GNU GPL 3 License. See `LICENSE.txt` for more information.
+Distributed under [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0). See `LICENSE.txt` for more information.
 
 
 <!-- CONTACT -->
