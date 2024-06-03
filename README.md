@@ -1,3 +1,12 @@
+
+<div align="center">
+  <h1 align="center">RHtml Iterator</h1>
+
+  <p align="center">
+    a project to iteratively generate a set of webpages in HTML with R.
+  </p>
+</div>
+
 ## About The Project
 
 This is a project to iteratively generate a set of webpages in HTML with R. The starting point is dataset in csv to get data from such date every page will show different data given a standard template.
@@ -7,21 +16,12 @@ Common usages:
 * Webscrapng projects
 * Different webpages with same template but different data
 
-Of course, this might be adapted according to own use. 
 
-
-### Built With
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+## Built With / Interact with
+* ![R](https://img.shields.io/badge/R-789CAB?style=for-the-badge&logo=r&logoColor=white)
+* ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+* ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+* ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 
 
