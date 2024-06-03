@@ -17,28 +17,19 @@
 * ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 
+### Getting Started/Installation
 
-<!-- GETTING STARTED -->
-## Getting Started
+_Below the instruction to set up this project._
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-
-### Installation
-
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/ccrisc_/Rhtml-iterator.git
    ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
+   
+2. Run the code in the file `read_data.R`
+3. Run everything in the file `generator.R`
 
+This will read the file `Project_template.Rhtml` and create a .html file inside the folder `product_pages.R`
 
 
 <!-- CONTRIBUTING -->
