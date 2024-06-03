@@ -16,6 +16,12 @@
 * ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 * ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
+### Project structure
+* `read_data.R`: reads the csv and the json files 
+* `generator.R`: source the file, define how many pages and how many products per page to generate. Lastly running the loop, the template file will be read, and the relevant web pages will be generated.
+* `Project_template.Rhtml`: template that define the webpages style.
+* `product_pages` folder: folder populated with the previously generated webpages 
+
 
 ### Getting Started/Installation
 
@@ -29,7 +35,7 @@ _Below the instruction to set up this project._
 2. Run the code in the file `read_data.R`
 3. Run everything in the file `generator.R`
 
-This will read the file `Project_template.Rhtml` and create a .html file inside the folder `product_pages.R`
+This will read the file `Project_template.Rhtml` and create many .html file inside the folder `product_pages`
 
 
 <!-- CONTRIBUTING -->
