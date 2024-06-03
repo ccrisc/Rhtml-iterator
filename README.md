@@ -7,14 +7,13 @@
   </p>
 </div>
 
+<hr>
 ## About The Project
 
 This is a project to iteratively generate a set of webpages in HTML with R. The starting point is dataset in csv to get data from such date every page will show different data given a standard template.
 
 
-Common usages:
-* Webscrapng projects
-* Different webpages with same template but different data
+Common usages include webscrapng projects
 
 
 ## Built With / Interact with
