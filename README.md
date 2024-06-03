@@ -7,7 +7,7 @@
   </p>
 </div>
 
-<hr>
+<br>
 ## About The Project
 
 This is a project to iteratively generate a set of webpages in HTML with R. The starting point is dataset in csv to get data from such date every page will show different data given a standard template.
@@ -30,13 +30,6 @@ Common usages include webscrapng projects
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
 
 ### Installation
 
@@ -51,12 +44,6 @@ _Below is an example of how you can instruct your audience on installing and set
    ```sh
    npm install
    ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
