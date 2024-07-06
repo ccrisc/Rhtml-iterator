@@ -2,7 +2,7 @@
 <div align="center">
   <h1 align="center">RHtml Iterator</h1>
 
-  <p align="center">
+  <p align="left">
     A project to iteratively generate a set of webpages in HTML with R. Given a dataset in csv every page will render dfferent data but on a common template.
   </p>
 </div>
